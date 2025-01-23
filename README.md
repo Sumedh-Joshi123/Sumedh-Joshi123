@@ -3,7 +3,7 @@
 <!--
 **Sumedh-Joshi123/Sumedh-Joshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>🔭 I am currently a Computer Science Masters student at Arizona State University graduating in December 2024. I work at the Make Programming Simple (MPS) Lab at ASU. I am working on "Reliability of Machine Learning Systems" and writing a thesis on the same. I have worked on various machine learning, deep learning, and computer vision projects.</p> 
+<p>🔭 I have completed my Master’s degree in Computer Science at Arizona State University, where I worked at the Make Programming Simple (MPS) Lab. My research focused on the 'Reliability of Machine Learning Systems'. My thesis, titled <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J9UzhRcAAAAJ&citation_for_view=J9UzhRcAAAAJ:u-x6o8ySG0sC">"ProGIP: Protecting Gradient-Based Input Perturbation Approaches for Out-of-Distribution Detection from Soft Errors,"</a> is available for reading. I have worked on various machine learning, deep learning, and computer vision projects.</p> 
 - 📫 How to reach me: sjoshi65@asu.edu
 <br>
 <br>
