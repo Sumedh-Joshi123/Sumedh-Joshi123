@@ -2,9 +2,8 @@
 
 🎓 **MS in Computer Science** — *Arizona State University (Make Programming Simple Lab)*  
 💡 Research Focus: **Reliability of Machine Learning Systems**  
-📘 Thesis: [ProGIP: Protecting Gradient-Based Input Perturbation Approaches for Out-of-Distribution Detection from Soft Errors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J9UzhRcAAAAJ&citation_for_view=J9UzhRcAAAAJ:u-x6o8ySG0sC)  
-🧠 Interests: Machine Learning • Deep Learning • Computer Vision • GPU Optimization • Fault-Tolerant AI  
-📫 **Email:** sjoshi65@asu.edu  
+📘 Thesis: [ProGIP: Protecting Gradient-Based Input Perturbation Approaches for Out-of-Distribution Detection from Soft Errors](https://mpslab-asu.github.io/publications/papers/Joshi2024THESIS.pdf)  
+🧠 Interests: Machine Learning • Deep Learning • Computer Vision • GPU Optimization • Fault-Tolerant AI
 
 ---
 
@@ -37,10 +36,8 @@ My work bridges **machine learning** and **GPU systems**, focusing on fault-tole
 ---
 
 ### 🚀 Featured Work
-- 🧮 **ProGIP (ESWEEK 2025)** — Fault-tolerant CNN OOD detection system  
-- 🔬 **Maintaining Sanity (DAC 2024)** — CNN reliability under transient faults  
-- ⚙️ **GPU Optimization Framework** — DCGM-driven workload scheduling and idle detection for Kubernetes clusters  
-- 🔧 **GPU Spec Microservice** — Automated NVIDIA GPU scraper with LLM-based MIG inference  
+- 🧮 **ProGIP (ESWEEK 2025)**
+- 🔬 **Maintaining Sanity (DAC 2024)**
 
 ---
 
