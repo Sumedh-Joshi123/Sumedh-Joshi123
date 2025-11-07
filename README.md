@@ -36,14 +36,6 @@ My work bridges **machine learning** and **GPU systems**, focusing on fault-tole
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumedh-Joshi123&show_icons=true&theme=react&count_private=true&hide=contribs,prs" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumedh-Joshi123&theme=react" height="160"/>
-</p>
-
----
-
 ### 🚀 Featured Work
 - 🧮 **ProGIP (ESWEEK 2025)** — Fault-tolerant CNN OOD detection system  
 - 🔬 **Maintaining Sanity (DAC 2024)** — CNN reliability under transient faults  
