@@ -42,8 +42,8 @@ My work bridges **machine learning** and **GPU systems**, focusing on fault-tole
 ---
 
 ### 🚀 Featured Work
-- 🧮 **ProGIP (ESWEEK 2025)**
-- 🔬 **Maintaining Sanity (DAC 2024)**
+- 🧮 [**ProGIP (ESWEEK 2025)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J9UzhRcAAAAJ&citation_for_view=J9UzhRcAAAAJ:d1gkVwhDpl0C)
+- 🔬 [**Maintaining Sanity (DAC 2024)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J9UzhRcAAAAJ&citation_for_view=J9UzhRcAAAAJ:u5HHmVD_uO8C)
 
 ---
 
