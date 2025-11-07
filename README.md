@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Sumedh Joshi**
 
-🎓 **MS in Computer Science** — *Arizona State University (Make Programming Simple Lab)*  
+🎓 **MS in Computer Science** — *Arizona State University*  
 💡 Research Focus: **Reliability of Machine Learning Systems**  
 📘 Thesis: [ProGIP: Protecting Gradient-Based Input Perturbation Approaches for Out-of-Distribution Detection from Soft Errors](https://mpslab-asu.github.io/publications/papers/Joshi2024THESIS.pdf)  
 🧠 Interests: Machine Learning • Deep Learning • Computer Vision • GPU Optimization • Fault-Tolerant AI
